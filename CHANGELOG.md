@@ -1,3 +1,7 @@
+# 7.0.0 (2025-03-29)
+
+This was a version bump only, there were no code changes.
+
 ## 7.0.0-0 (2025-03-29)
 
 This was a version bump only, there were no code changes.
