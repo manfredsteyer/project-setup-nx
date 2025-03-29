@@ -15,6 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@my-org/my-lib": ["my-lib/src/index.ts"],
+      "@my-org/my-other-lib": ["my-other-lib/src/index.ts"],
+      "@my-project/my-second-lib": ["my-second-lib/src/index.ts"],
       "@my-project/util-auth": ["libs/util-auth/src/index.ts"]
     }
   },
